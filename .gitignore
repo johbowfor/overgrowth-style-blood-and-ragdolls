@@ -1,0 +1,5 @@
+*.zip
+*.zip.sha256
+release-assets/
+publish-plan.json
+RELEASE_NOTES.md

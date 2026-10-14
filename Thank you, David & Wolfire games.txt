@@ -1,0 +1,3 @@
+A big thanks to Dave and Wolfire Games for allowing me to modify and implement their revolutionary Overgrowth ragdoll and blood tech into Stalker Anomaly. They are the giants upon whose shoulders us blood and ragdoll modders stand. They pioneered this technology years ago and are worthy of the highest praise for creating such a unique system that was so ahead of its time.
+
+All I have done is port and humbly tweak their great work for STALKER Anomaly. Buy their games Overgrowth and Receiver. They are both very unique titles.
